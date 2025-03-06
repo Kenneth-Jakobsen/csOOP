@@ -1,0 +1,14 @@
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\BEAST PROJECT\Desktop\Beginning C# and .Net\csOOP\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
