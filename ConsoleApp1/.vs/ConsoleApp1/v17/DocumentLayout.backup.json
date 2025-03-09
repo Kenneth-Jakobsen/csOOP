@@ -1,48 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85B0F3F1-99EF-4DFE-9377-4B179539603B}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3BA97F-2E5E-4485-90C2-79E76EE47977}|..\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85B0F3F1-99EF-4DFE-9377-4B179539603B}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3BA97F-2E5E-4485-90C2-79E76EE47977}|..\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|c:\\users\\beast project\\desktop\\beginning c# and .net\\csoop\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA1BC44-E4E9-42AF-A4B0-4D281FA38F19}|ConsoleApp1.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3BA97F-2E5E-4485-90C2-79E76EE47977}|..\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,146 +38,46 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp2\\Library.cs",
-              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Library.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp2\\Library.cs",
-              "RelativeToolTip": "..\\ConsoleApp2\\Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Manager.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Manager.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T12:55:22.217Z",
+              "WhenOpened": "2025-03-09T09:59:05.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Employee.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Employee.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:57:57.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp2\\Program.cs",
-              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:46:58.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Student.cs",
-              "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Student.cs",
-              "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:44:46.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Circle.cs",
-              "RelativeDocumentMoniker": "Circle.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Circle.cs",
-              "RelativeToolTip": "Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:39:43.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Shape.cs",
-              "RelativeDocumentMoniker": "Shape.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Shape.cs",
-              "RelativeToolTip": "Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:35:37.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Dog.cs",
-              "RelativeDocumentMoniker": "Dog.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Dog.cs",
-              "RelativeToolTip": "Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:34:10.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Animal.cs",
-              "RelativeDocumentMoniker": "Animal.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Animal.cs",
-              "RelativeToolTip": "Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:32:26.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MathHelper.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\MathHelper.cs",
-              "RelativeDocumentMoniker": "MathHelper.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\MathHelper.cs",
-              "RelativeToolTip": "MathHelper.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:27:07.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\BankAccount.cs",
-              "RelativeDocumentMoniker": "BankAccount.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\BankAccount.cs",
-              "RelativeToolTip": "BankAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:19:19.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Car.cs",
-              "RelativeDocumentMoniker": "Car.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Car.cs",
-              "RelativeToolTip": "Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:16:08.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Person.cs",
-              "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning C# and .Net\\csOOP\\ConsoleApp1\\Person.cs",
-              "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA7wCEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:09:16.241Z",
+              "WhenOpened": "2025-03-09T09:38:28.688Z",
               "EditorCaption": ""
             }
           ]

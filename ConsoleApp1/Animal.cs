@@ -11,6 +11,7 @@ namespace ConsoleApp1
         public string Name { get; set; }
         public int Age { get; set; }
 
+
         public virtual void Speak()
         {
             Console.WriteLine("Animal sound");
