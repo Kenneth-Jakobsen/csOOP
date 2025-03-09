@@ -12,6 +12,13 @@ namespace ConsoleApp2
         public string Author { get; set; }
         public decimal Price { get; set; }
 
+        public Book(Book book)
+        {
+            Title = book.Title;
+            Author = book.Author;
+            Price = book.Price;
+        }
+
         public Book()
         {
             Title = "Undefined";
