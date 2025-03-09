@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using ConsoleApp3;
+//using ConsoleApp3;
 //using ConsoleApp3.AccessModifiers_extended_;
-using ConsoleApp3.Inheritance_Extended_;
+//using ConsoleApp3.Inheritance_Extended_;
+//using ConsoleApp3.Inheritance_Extended_.Practical_exercise;
+using ConsoleApp3.Polymorphism_Extended_;
 
 //Bank
 //var bankCustomer1 = new Customer("John");
@@ -45,4 +47,17 @@ using ConsoleApp3.Inheritance_Extended_;
 //{
 //    animal.MakeSound();
 //}
+
+//Inheritance Practical Exercise
+//var manager = new Manager("John", 2, "HR", 5);
+//var developer = new Developer("Steve", 3, "Logistics", "C#");
+//manager.Work();
+//developer.Work();
+
+//Method Overloading
+var myCalculator = new Calculator();
+myCalculator.Add(2,3);
+myCalculator.Add(2.2, 3.5);
+myCalculator.Add("hello", "world");
+
 
