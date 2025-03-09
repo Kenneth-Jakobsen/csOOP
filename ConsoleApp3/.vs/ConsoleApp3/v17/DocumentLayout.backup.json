@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\manager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\manager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\animal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\animal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\accessmodifiers(extended)\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:accessmodifiers(extended)\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\cat2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\cat2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\dog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\dog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\circle2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|c:\\users\\beast project\\desktop\\beginning cs and net\\csoop\\consoleapp3\\inheritance(extended)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB8E34D-536D-0780-CF22-6565F93EE632}|ConsoleApp3.csproj|solutionrelative:inheritance(extended)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,20 +74,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T10:23:03.048Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp3",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp3.csproj",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeToolTip": "ConsoleApp3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T12:44:44.582Z",
               "EditorCaption": ""
             },
             {
@@ -80,7 +125,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\AccessModifiers(extended)\\Animal.cs",
+              "RelativeDocumentMoniker": "AccessModifiers(extended)\\Animal.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\AccessModifiers(extended)\\Animal.cs",
+              "RelativeToolTip": "AccessModifiers(extended)\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:40:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat2.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Cat2.cs",
+              "RelativeDocumentMoniker": "Inheritance(Extended)\\Cat2.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Cat2.cs",
+              "RelativeToolTip": "Inheritance(Extended)\\Cat2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:34:53.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dog2.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Dog2.cs",
+              "RelativeDocumentMoniker": "Inheritance(Extended)\\Dog2.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Dog2.cs",
+              "RelativeToolTip": "Inheritance(Extended)\\Dog2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:33:20.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal2.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Animal2.cs",
+              "RelativeDocumentMoniker": "Inheritance(Extended)\\Animal2.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Animal2.cs",
+              "RelativeToolTip": "Inheritance(Extended)\\Animal2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:32:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager2.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Manager2.cs",
+              "RelativeDocumentMoniker": "Inheritance(Extended)\\Manager2.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Manager2.cs",
+              "RelativeToolTip": "Inheritance(Extended)\\Manager2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:16:51.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Employee2.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Employee2.cs",
+              "RelativeDocumentMoniker": "Inheritance(Extended)\\Employee2.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Employee2.cs",
+              "RelativeToolTip": "Inheritance(Extended)\\Employee2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:14:51.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Person.cs",
+              "RelativeDocumentMoniker": "Inheritance(Extended)\\Person.cs",
+              "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Person.cs",
+              "RelativeToolTip": "Inheritance(Extended)\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:12:07.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Rectangle.cs",
               "RelativeDocumentMoniker": "Inheritance(Extended)\\Rectangle.cs",
@@ -88,12 +224,11 @@
               "RelativeToolTip": "Inheritance(Extended)\\Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T11:49:49.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T11:49:49.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Circle2.cs",
               "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Circle2.cs",
               "RelativeDocumentMoniker": "Inheritance(Extended)\\Circle2.cs",
@@ -101,12 +236,11 @@
               "RelativeToolTip": "Inheritance(Extended)\\Circle2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T11:42:35.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T11:42:35.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Shape.cs",
               "RelativeDocumentMoniker": "Inheritance(Extended)\\Shape.cs",
@@ -114,12 +248,11 @@
               "RelativeToolTip": "Inheritance(Extended)\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T11:40:33.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T11:40:33.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "ElectricCar.cs",
               "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\ElectricCar.cs",
               "RelativeDocumentMoniker": "Inheritance(Extended)\\ElectricCar.cs",
@@ -127,12 +260,11 @@
               "RelativeToolTip": "Inheritance(Extended)\\ElectricCar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T11:37:24.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T11:37:24.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Vehicle.cs",
               "RelativeDocumentMoniker": "Inheritance(Extended)\\Vehicle.cs",
@@ -140,25 +272,24 @@
               "RelativeToolTip": "Inheritance(Extended)\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T11:36:05.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T11:36:05.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Employee.cs",
               "RelativeDocumentMoniker": "Inheritance(Extended)\\Employee.cs",
               "ToolTip": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Employee.cs",
               "RelativeToolTip": "Inheritance(Extended)\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T11:27:33.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\BEAST PROJECT\\Desktop\\Beginning Cs and Net\\csOOP\\ConsoleApp3\\Inheritance(Extended)\\Manager.cs",
               "RelativeDocumentMoniker": "Inheritance(Extended)\\Manager.cs",
