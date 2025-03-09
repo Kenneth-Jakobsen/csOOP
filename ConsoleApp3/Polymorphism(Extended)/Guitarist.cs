@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp3.Polymorphism_Extended_
 {
     internal class Guitarist:IPlayable
     {
-        public new void Play()
+        public void Play()
         {
             Console.WriteLine("Playing the guitar");
         }

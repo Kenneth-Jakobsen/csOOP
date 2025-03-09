@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3.Polymorphism_Extended_
 {
-    internal class FootballPlayer:IPlayable
+    public interface IShape
     {
-        public void Play()
-        {
-            Console.WriteLine("Playing football");
-        }
+        public void GetInfo();
     }
 }

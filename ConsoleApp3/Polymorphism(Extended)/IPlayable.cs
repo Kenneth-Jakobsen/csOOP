@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp3.Polymorphism_Extended_
 {
-    internal class IPlayable
+    public interface  IPlayable
     {
-        public void Play()
-        {
-
-        }
+        public void Play();
     }
 }

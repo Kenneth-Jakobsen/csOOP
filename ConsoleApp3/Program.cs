@@ -55,9 +55,46 @@ using ConsoleApp3.Polymorphism_Extended_;
 //developer.Work();
 
 //Method Overloading
-var myCalculator = new Calculator();
-myCalculator.Add(2,3);
-myCalculator.Add(2.2, 3.5);
-myCalculator.Add("hello", "world");
+//var myCalculator = new Calculator();
+//myCalculator.Add(2,3);
+//myCalculator.Add(2.2, 3.5);
+//myCalculator.Add("hello", "world");
 
+//Using Interfaces for Polymorphism
+//List<IPlayable> playables = new List<IPlayable>
+//{
+//    new FootballPlayer(),
+//    new Guitarist()
+//};
+//foreach(var player in playables)
+//{
+//    player.Play();
+//}
 
+//Polymorphism with Abstract Classes
+//List<Shape> shapes = new List<Shape>
+//{
+//    new Circle(3),
+//    new Rectangle(5,4)
+//};
+//foreach(var shape in shapes)
+//{
+//    Console.WriteLine($"{shape.Name} area :{shape.Area()}");
+//}
+
+//Polymophism with Collections
+//List<IShape> shapes = new List<IShape>
+//{
+//    new Circle(3),
+//    new Rectangle(5,4)
+//};
+//foreach(var shape in shapes)
+//{
+//    shape.GetInfo();
+//}
+
+//Polymorphism with Dynamic Types
+//dynamic person = new Person("Steve", 18);
+//dynamic employee = new Employee("John", 25, "YouTube");
+//person.Introduce();
+//employee.Introduce();

@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp1",
-    "\\ConsoleApp2",
     "\\ConsoleApp3",
-    "\\ConsoleApp3\\Polymorphism(Extended)"
+    "\\ConsoleApp3\\Inheritance(Extended)\\Practical exercise"
   ],
-  "SelectedNode": "\\ConsoleApp1\\Dog.cs",
   "PreviewInSolutionExplorer": false
 }
