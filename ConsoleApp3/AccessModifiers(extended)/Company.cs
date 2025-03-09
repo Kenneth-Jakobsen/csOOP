@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    class Manager:Employee
+    class Company
     {
-
+        private protected string CompanyName { get; set; }
     }
 }
