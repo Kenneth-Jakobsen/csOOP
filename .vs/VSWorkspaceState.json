@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp3\\bin",
+    "\\ConsoleApp3",
     "\\ConsoleApp3\\bin\\Debug",
     "\\ConsoleApp3\\bin\\Release",
     "\\ConsoleApp3\\bin\\Release\\net8.0"
   ],
-  "SelectedNode": "\\ConsoleApp3",
   "PreviewInSolutionExplorer": false
 }
